@@ -1,0 +1,50 @@
+* {
+  font-family: "Cutive Mono", serif;
+}
+
+.bg-lightsalmon {
+  background-color: lightsalmon;
+}
+
+.bg-lightpink {
+  background-color: lightpink;
+}
+
+.bg-lightblue {
+  background-color: lightblue;
+}
+
+.bg-lightcyan {
+  background-color: lightcyan;
+}
+
+span.fas.fa-medal {
+  color: #71a6b8;
+}
+
+span.fab.fa-twitter {
+  color: lightgray;
+}
+
+nav {
+  background-color: white;
+}
+
+a.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.round-container {
+  border: 0.5em dashed #71a6b8;
+  border-radius: 1em;
+}
+
+.gray-bg {
+  background-color: #d3d3d3;
+}
+
+.btn,
+.btn-primary {
+  border-color: #71a6b8;
+  background-color: #71a6b8;
+}
